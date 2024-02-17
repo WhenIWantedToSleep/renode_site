@@ -1,0 +1,165 @@
+# Translation of Themes - Author Landing Page in Russian
+# This file is distributed under the same license as the Themes - Author Landing Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-03 09:08:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Author Landing Page\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Author Landing Page is a beautiful and easy-to-use free WordPress theme for authors, writers, novelists, and publishers who want to launch, promote or publish their book online. This theme features an elegant and attractive layout to help you generate high leads and get more sales of your book. With Author Landing Page free theme, you can create a fully responsive, and visually appealing landing page to sell and promote your book without writing a single line of code. It is a speed optimized theme that helps your website load within a blink of an eye and provides a great user experience to your visitors. The theme is developed with SEO optimized codes and is schema.org markup ready to help your website rank higher in Google and other search engines. Furthermore, this theme is fully compatible with the popular WooCommerce plugin to allow you to sell your book via your website. Check demo at https://rarathemes.com/previews/?theme=author-landing-page and documentation at https://docs.rarathemes.com/docs/author-landing-page/. Read theme details at https://rarathemes.com/wordpress-themes/author-landing-page/ and get free support at https://rarathemes.com/support-ticket/."
+msgstr "Author Landing Page - это красивая и простая в использовании бесплатная тема WordPress для авторов, писателей, романистов и издателей, которые хотят запускать, рекламировать или публиковать свои книги в Интернете. Эта тема имеет элегантный и привлекательный макет, который поможет вам привлечь больше клиентов и увеличить продажи своей книги. С бесплатной темой Author Landing Page вы можете создать полностью отзывчивую и визуально привлекательную целевую страницу, чтобы продавать и продвигать свою книгу, не написав ни единой строчки кода. Это оптимизированная по скорости тема, которая помогает вашему веб-сайту загружаться в мгновение ока и обеспечивает отличный пользовательский опыт для ваших посетителей. Тема разработана с использованием оптимизированных для SEO-кодов и готова к разметке schema.org, чтобы помочь вашему сайту занять более высокую позицию в Google и других поисковых системах. Кроме того, эта тема полностью совместима с популярным плагином WooCommerce, что позволяет вам продавать свою книгу через ваш сайт. Проверьте демо на https://rarathemes.com/previews/?theme=author-landing-page и документацию на https://docs.rarathemes.com/docs/author-landing-page/. Прочитайте подробности темы на https://rarathemes.com/wordpress-themes/author-landing-page/ и получите бесплатную поддержку на https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Author Landing Page"
+msgstr "Author Landing Page"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/parent-functions.php:141
+msgid "https://rarathemes.com/previews/?theme=author-landing-page"
+msgstr "https://rarathemes.com/previews/?theme=author-landing-page"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quicksand, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:38
+msgctxt "Quicksand font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:32
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/parent-functions.php:178
+msgid "Rara Theme "
+msgstr "Rara Theme"
+
+#: inc/parent-functions.php:177
+msgid "Author Landing Page | Developed By "
+msgstr "Author Landing Page | Разработано "
+
+#: inc/parent-functions.php:179
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: inc/parent-functions.php:179
+msgid "Powered by %s "
+msgstr "При поддержке %s"
+
+#: inc/parent-functions.php:172
+msgid "Y"
+msgstr "Y"
+
+#: inc/parent-functions.php:171
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/parent-functions.php:146
+msgid "Documentation Link : "
+msgstr "Ссылка на документацию:"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: inc/parent-functions.php:141 inc/parent-functions.php:146
+msgid "Click here."
+msgstr "Нажмите здесь."
+
+#. translators: 1: string, 2: preview url, 3: string
+#: inc/parent-functions.php:141
+msgid "Demo Link : "
+msgstr "Ссылка на демонстрацию: "
+
+#: inc/parent-functions.php:126
+msgid "Demo & Documentation"
+msgstr "Демонстрация и документация"
+
+#: inc/parent-functions.php:112
+msgid "Upload Accepted Cards Image"
+msgstr "Загрузить изображение принятых карт"
+
+#: inc/parent-functions.php:92
+msgid "Banners Section Button Link"
+msgstr "Ссылка кнопки раздела банеров"
+
+#: inc/parent-functions.php:74
+msgid "Banner Section Button Text"
+msgstr "Текст кнопки раздела банера"
+
+#: inc/parent-functions.php:55
+msgid "Select Post"
+msgstr "Выберите запись"
+
+#: inc/parent-functions.php:37
+msgid "Enable Banner Section"
+msgstr "Включить раздел банера"
+
+#: inc/parent-functions.php:10 inc/parent-functions.php:19
+msgid "Banner Section"
+msgstr "Раздел Баннер"
+
+#: functions.php:87
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:36
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: template-parts/content-page.php:25 template-parts/content.php:54
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:48
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:39 template-parts/content.php:60
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/author-landing-page/"
+msgstr "https://rarathemes.com/wordpress-themes/author-landing-page/"
